@@ -53,5 +53,4 @@ Go to localhost:5000 in your browser and chat
 Thank you to flask documentation for providing information about their framework
 
 ## Contacts
-
-<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:acosinov@bk.ru"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
+<a href="mailto:acosinov@bk.ru"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
